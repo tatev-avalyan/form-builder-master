@@ -1,0 +1,13 @@
+export const TEXT_INPUT = 'TEXT_INPUT'
+export const EMAIL_INPUT = 'EMAIL_INPUT'
+export const PHONE_INPUT = 'PHONE_INPUT'
+export const SHORT_TEXT = 'SHORT_TEXT'
+export const CHECKBOX = 'CHECKBOX'
+export const DATEPICKER = 'DATEPICKER'
+export const LONG_TEXT = 'LONG_TEXT'
+export const SELECT = 'SELECT'
+export const MULTISELECT = 'MULTISELECT'
+export const UPLOAD = 'UPLOAD'
+export const ELEMENT_ADDRESS_FORM = 'ELEMENT_ADDRESS_FORM'
+export const ELEMENT_ADDRESS_DROPPED = 'ELEMENT_ADDRESS_DROPPED'
+export const NO_EDITABLE_ELEMENT = undefined
